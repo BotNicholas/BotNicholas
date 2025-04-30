@@ -12,7 +12,7 @@
 </br>
 
 ## "So tell us — why should we move forward with you? How can you be useful to us?"
-- Well, take a lokk at my repo - there's a lot of interesting stuff :D
+- Well, take a look at my repo - there's a lot of interesting stuff :D
 
 <!--
 **BotNicholas/BotNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
