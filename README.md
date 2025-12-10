@@ -1,30 +1,32 @@
+<img src="https://cdn.betterttv.net/emote/5c0e1a3c6c146e7be4ff5c0c/3x.webp">
 
-![unnamed](https://github.com/user-attachments/assets/2192155f-509f-4d16-9c94-777d19469e89)
+### 👋 Hi All! 
+I'm Nick, and I'm a Full-Stack / Backend Developer (Java & Spring)
 
-## "Who the hell are you?!"
-* Well, a sort of FullStack Developer 🧔💻
-* Really enjoying 🔎🐛 and 🦶💥 them 😄 
-</br>
+## 🚀 About me
+Working with Java, Spring Boot, Hibernate, SQL
 
-## "What is strength, brother?"
-* Really enjoying Developing Backend applications with [Java](https://en.wikipedia.org/wiki/Java), [Relational DB](https://en.wikipedia.org/wiki/Relational_database)-s and [Angular](https://en.wikipedia.org/wiki/Angular_(web_framework)) FrontEnd...
-* Trying to move everything to the ☁, but in vain for now 🤔
-</br>
+Enjoy solving backend architecture problems and improving systems
 
-## "So tell us — why should we move forward with you? How can you be useful to us?"
-- Well, take a look at my repos - there's a lot of interesting stuff :D
+Interested in distributed systems, cloud, and high-load patterns
 
-<!--
-**BotNicholas/BotNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Backend**: Java, Spring Boot, Spring Cloud, Hibernate, Kafka, RabbitMQ
+**Frontend**: Angular
+**Databases**: PostgreSQL, MongoDB
+and many other....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+
+Deepening Java & Spring Cloud expertise
+
+Learning Clouds
+
+Improving architecture & system design skills
+
+## 📫 Contact
+
+Telegram: @BotNicholas
+
+Email: botannicolai22@gmail.com
