@@ -27,6 +27,6 @@ Improving architecture & system design skills
 
 ## 📫 Contact
 
-Telegram: @BotNicholas
+Telegram: [@BotNicholas](https://t.me/BotNicholas)
 
 Email: botannicolai22@gmail.com
